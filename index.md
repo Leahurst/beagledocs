@@ -1,0 +1,1 @@
+Welcome to the documentation for Beagle. Select a topic from the left-hand side or enter a search term to get started.
