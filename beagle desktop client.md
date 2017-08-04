@@ -4,7 +4,7 @@
 The Beagle Desktop Client is a small Windows application which can be installed on your computer to provide extended functionality in Beagle. Some features of Beagle require the Beagle Desktop Client to be installed, such as printing.
 
 ##Downloading and Installing##
-The Beagle Desktop Client can be downloaded from the [http://beagle/downloads](Beagle Downloads) page. Once downloaded, run the wizard to install the application.
+The Beagle Desktop Client can be downloaded from the [Beagle Downloads](http://beagle/downloads) page. Once downloaded, run the wizard to install the application.
 
 The Beagle Desktop Client is fairly unobtrusive, so once you've finished installing it you won't see much change. However, if you look next to the clock in the bottom-right corner of Windows, you should notice a small Beagle icon.
 
